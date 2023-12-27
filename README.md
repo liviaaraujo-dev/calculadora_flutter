@@ -2,4 +2,4 @@
 
 Calculadora desenvolvida utlizando framework flutter e linguagem de programação dart
 
-![Print Projeto](print.jpg)
+ <img height="700"  src="https://github.com/liviaaraujo-dev/calculadora_flutter/blob/main/print.jpg">
